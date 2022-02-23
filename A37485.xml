@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters to Dr. Benjamin Calamy one in English, the other in Latine / by Thomas De Laune, upon his imprisonment in Newgate, for the answer given at the said Dr. Calamy's call, to his sermon entituled, A discourse about a scrupulous conscience, in a late piece called, A plea for the non-conformists, &amp;c.</title>
+            <author>De Laune, Thomas, d. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37485</idno>
+            <idno type="STC">Wing D898</idno>
+            <idno type="STC">ESTC R41917</idno>
+            <idno type="EEBO-CITATION">19721134</idno>
+            <idno type="OCLC">ocm 19721134</idno>
+            <idno type="VID">109352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1698:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters to Dr. Benjamin Calamy one in English, the other in Latine / by Thomas De Laune, upon his imprisonment in Newgate, for the answer given at the said Dr. Calamy's call, to his sermon entituled, A discourse about a scrupulous conscience, in a late piece called, A plea for the non-conformists, &amp;c.</title>
+                  <author>De Laune, Thomas, d. 1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Library of Congress.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Calamy, Benjamin, 1642-1686. --  Discourse about a scrupulous conscience.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Liberty of conscience --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109352:1"/>
+            <head>Two LETTERS to <hi>Dr. Benjamin Calamy,</hi> ONE IN Engliſh, the other in Latine, By <hi>Thomas De Laune,</hi> upon his Impriſonment in <hi>Newgate,</hi> for the <hi>Anſwer</hi> given at the ſaid Dr. <hi>Cala<g ref="char:EOLhyphen"/>my</hi>'s Call, to his Sermon entituled, <hi>A Diſcourſe about a Scrupulous Conſcience,</hi> in a late Piece called, <hi>A Plea for the Non-conformiſts, &amp;c.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <salute>SIR;</salute>
+                        </opener>
+                        <p>IN your printed Sermon, Intituled, <hi>Scrapulous Conſcience,</hi> you know you gave a fair Invitation to ſuch as differ from you, to examine what each Party (viz. <hi>Conformiſts</hi> and <hi>Non-conformiſts</hi>) ſay for themſelves, with reſpect to the <hi>Rites</hi> and <hi>Ceremonies</hi> which the Guides of the Church impoſe on their Members, and by penal Laws upon their <hi>Proteſtant</hi> fellow Subjects, the <hi>Non-conformiſts.</hi>—Without doubt, your Call to ſuch, pre-ſuppoſed a <hi>Reply,</hi> by which you expected that there may be either an Opportunity given to you and your Brethren, to rectifie what <hi>ſcrupulous Conſciences</hi> miſ-underſtand, or that there may be ſome Relaxation procured, of the ſeverity they undergo, if their diſſent appears to be warranted by that <hi>only Rule of
+<pb n="2" facs="tcp:109352:2" rendition="simple:additions"/> Faith,</hi> which Dr. <hi>Stillingfleet,</hi> and other Eminent <hi>Conformiſts,</hi> call <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>he <hi>Bible.</hi>
+                        </p>
+                        <p>If you did not expect an <hi>Anſwer,</hi> or thought that none for fear of the <hi>Act of <g ref="char:V">Ʋ</g>niformity, &amp;c.</hi> would make any Return to your Call, what can a man of Reaſon judge, but that it was a florid Declamation, or a triumphant Harangue, a meer Mockery &amp; enſnaring of poor ſcrupulous Conſciences, when they muſt be ſo muzled, that they muſt not exhibit the Cauſes of their Doubts. <hi>Sir,</hi> you know that 'tis unequal to gag the <hi>Reſpon<g ref="char:EOLhyphen"/>dent,</hi> when the <hi>Opponent's</hi> Mouth is at liberty, or to manacle the <hi>Aſſaulted,</hi> when the <hi>Challenger</hi> flouriſhes a menacing Sword.</p>
+                        <p>Upon that publick Call of yours, I adventured to examine (with the moſt diligent ſearch I could make) what each of the ſaid Parties ſay for themſelves; and this not out of any Litigi<g ref="char:EOLhyphen"/>ous Principle (that <hi>pruritus diſputandi</hi>) now too fatally grown E<g ref="char:EOLhyphen"/>pidemical, but to give ſuch as are concerned, occaſion to inve<g ref="char:EOLhyphen"/>ſtigate theſe diſputed matters to the very Foundation, to the clearing up of Truth in a Juncture when it can never be more ſeaſonable. What was digeſted, was intended to be ſent you in a <hi>Manuſcript,</hi> with ſome modeſt Inferences and Inquiries; but upon Re-collection I judg'd it would more anſwer your end, viz. <hi>publick Information,</hi> to have ſuch Arguments as are pro<g ref="char:EOLhyphen"/>ducible by the <hi>Diſſenters,</hi> as publick as the Invitation you gave them from <hi>Pulpit</hi> and <hi>Preſs,</hi> it being equal that the <hi>Anſwer</hi> ſhould be as ſpreading as the <hi>Objection.</hi>
+                        </p>
+                        <p>I am far from the vanity of pretending to be your Compe<g ref="char:EOLhyphen"/>titor in the Faculties of the Schools; I cannot judge of them any otherwiſe than as unſerviceable to Chriſtian Religion, unleſs tinctured with that Grace, derivative only from the Sanctifier of all Gifts, which I hope you partake of.</p>
+                        <p>I am one of the meaneſt of the Flock, yet not below the Re<g ref="char:EOLhyphen"/>gards of the Shepherd of Souls, who is no Reſpecter of Per<g ref="char:EOLhyphen"/>ſons, and whoſe Example ſuch as call themſelves his Ambaſſa<g ref="char:EOLhyphen"/>dors,
+<pb n="3" facs="tcp:109352:2" rendition="simple:additions"/> ought to follow. And therefore though ſome, who pin their Faith upon <hi>Canonical</hi> Sleeves, may cenſure me, for oppo<g ref="char:EOLhyphen"/>ſing (or, if I may uſe a <hi>Military Metaphor,</hi> taking up the Gant<g ref="char:EOLhyphen"/>let againſt) a man of your Figure; yet I can take up my ſatis<g ref="char:EOLhyphen"/>faction in this, that it was not <hi>Pride,</hi> nor a <hi>Popular Itch,</hi> much leſs the love of a Priſon, influenced me to become an Anſwerer of your <hi>ſcrupulous Conſcience.</hi>
+                        </p>
+                        <p>I could heartily wiſh (as a mercy to theſe Nations) that all Religious Differences were compoſed by Evangelical Rules; and and that all who own the Name of Chriſt would ſerve him with one Heart, and with one Soul, and not tear each other to pieces, which by conſequence muſt expoſe them as a Prey to ſuch as gape for their Deſtruction.</p>
+                        <p>If the Sanctions of Chriſt in the Old and New-Teſtament ought to regulate the Modes of his Worſhip, and that we are under an indiſpenſible Obligation to obey that <hi>Magna Charta</hi> of Heaven, then let us either quit the Name of <hi>Chriſtians,</hi> or act according to the ſupream Law-giver's, unrepealable Statutes, quite exploding what's undeniably borrowed from the <hi>Pompilian</hi> or <hi>Pontifical Canons.</hi>
+                        </p>
+                        <p>Some Sheets have been printed off of what I intended to pre<g ref="char:EOLhyphen"/>ſent to you, but the Meſſenger of the Preſs interrupted the pro<g ref="char:EOLhyphen"/>cedure, and got me committed to <hi>Newgate,</hi> where I am now confin'd. There is nothing done, nor was intended to be done, but a fair Examination of thoſe things your Sermon invited to, which I had thought (if eſteemed Criminal) ſhould fall rather within the cognizance of Divines, than the men of Law; for me thinks the <hi>Pandects</hi> ſhould not be the Oracles of Religion, and that Temporal Statutes ſhould be ſo civil as to give prece<g ref="char:EOLhyphen"/>dency to the ſacred Records.</p>
+                        <p>'Tis poſſible that Inquirers into Religion will look upon it as a prepoſterous proceeding, and diſagreeable to the Nature of the <hi>Chriſtian Faith</hi> to force doubting Perſons by Penalties to em<g ref="char:EOLhyphen"/>brace
+<pb n="4" facs="tcp:109352:3"/> it; for that can never make them good Converts, but Hy<g ref="char:EOLhyphen"/>pocrites. May they not ſay that 'tis a horrid Diſparagement to the Self-evidencing Light of the Goſpel, if it cannot ſtop the Mouths of Gain-ſayers, any other way than by the rigid Ex<g ref="char:EOLhyphen"/>ecution of Acts of State? I cannot find that Chriſt or his Diſ<g ref="char:EOLhyphen"/>ciples ever <hi>Church-curſed</hi> or <hi>Newgated</hi> ſcrupulous Conſciences to Conformity.</p>
+                        <p>My Confinement is for accepting your Invitation to hear both ſides; and I appeal to you, whether it be candid to puniſh me for obeying a Guide of the Church? I look upon you (in honour) obliged to procure my Sheets (yet unfiniſhed) a publick Paſs<g ref="char:EOLhyphen"/>port, and to me my Liberty, elſe I muſt conclude it unfair, and that if the irreſiſtible Logick of Goals grows <hi>Al-a-mode,</hi> it will make the Reformation, ſome pretend to, ſuſpected to be very little meritorious of that Name.</p>
+                        <p>
+                           <hi>Religion</hi> is a ſacred thing, and has been moſt horribly abuſed by ſuch as have ſuper added their own Inventions, or thoſe Traditional Fopperies received from our deceiv'd and ſuperſtitious Anceſtors. I am ſatisfied you, as well as Dr. <hi>Stillingfleet,</hi> will own (or there's no debating with you) that the Scripture is our <hi>Only Rule of Faith;</hi> if ſo, pray let your ſcrupulous Conſciences be won to Conformity by that. All men are not of equal capa<g ref="char:EOLhyphen"/>city, to apprehend things doubtful; for if they had been ſo, there had been no neceſſity of Preachers: and the methods of Con<g ref="char:EOLhyphen"/>vincing men is as plainly laid down in the Bible, as any thing there, <hi>viz.</hi> by <hi>plain demonſtrative Arguments, meek</hi> and <hi>winning Perſwaſions,</hi> not the ſyllogiſms of <hi>Priſons, Pillories, &amp;c.</hi>
+                        </p>
+                        <p>I beſeech you in the fear of God, and as you will anſwer it to our great Lord and Maſter Jeſus Chriſt, That without reſpect to any other end than the good of Souls (as the Profeſſion you take obliges you to) that you would treat ſcrupulous Conſcien<g ref="char:EOLhyphen"/>ces, as you would be dealt withal your ſelf. If they have no Reaſon for their Diſſent, and will without ground ſuffer Impri<g ref="char:EOLhyphen"/>ſonments
+<pb n="5" facs="tcp:109352:3"/> with all the ruinous Concomitants of ſo diſmal a Cir<g ref="char:EOLhyphen"/>cumſtance, 'tis certain that <hi>Bedlam</hi> is more fit for them, than ſuch places of Confinement, as are appointed for men in their Wits; and by conſequence 'tis pity to be ſo ſevere with ſuch Simpletons. But if you will allow them any <hi>Modicum</hi> of Rea<g ref="char:EOLhyphen"/>ſon, than I appeal to all the <hi>Guides of the Church,</hi> whether it be not more conſonant to the Precepts of our ſoveraign Legiſlator, to confute them by his Rules, rather than by ſuch coercive Me<g ref="char:EOLhyphen"/>thods, which his Majeſty judg'd ineffectual in his <hi>Declaration</hi> of <hi>Indulgence, March</hi> 1672.</p>
+                        <p>As Truth ſeeks no Corners nor Suborners, and as real Beauty will not be beholden to the artificial Dawbings of a Pencil, ſo the Chriſtian Religion (where profeſſed in its naked ſimplicity) needs no other Allurement to beget Proſelites than its own lovely and illuſtrious Features, altogether plain, honeſt, and every way amiable, void of all Meretricious Gawdery, or that Majeſtical Pomp which pleaſes only the external Senſe.</p>
+                        <p>I have no Malignity againſt any Perſon whatſoever, much leſs againſt your Church, or any of its Members, all I deſire is, that <hi>Scrupulous Conſciences,</hi> who trouble not the Peace of the Na<g ref="char:EOLhyphen"/>tion, ſhould be dealt withal (at leaſt) as <hi>weak Brethren,</hi> according to <hi>Rom.</hi> 14.1. and not ruin'd by Penalties for not ſwallowing what's impoſed under the Notion of <hi>Decency</hi> and <hi>Order,</hi> tho Ec<g ref="char:EOLhyphen"/>centrick to the <hi>Scheme</hi> we have of it in our <hi>only Rule of Faith. <hi>Sir,</hi>
+                           </hi> I intreat you to excuſe this Trouble from a Stranger, who would fain be convinc'd by ſomething more like Divinity then <hi>Newgate,</hi> where any Meſſage from you ſhall be wellcome to</p>
+                        <closer>
+                           <signed>Your Humble Servant, <hi>Thomas De Laune.</hi>
+                           </signed>
+                           <dateline>From the <hi>Preſs-Yard, Newgate,</hi>
+                              <date>
+                                 <hi>the</hi> 8th <hi>of December,</hi> 1683.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="6" facs="tcp:109352:4"/>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <dateline>
+                              <date>January Die Nono, 1683.</date>
+                           </dateline>
+                           <lb/>
+                           <salute>Reverende Vir;</salute>
+                        </opener>
+                        <p>Q<g ref="char:V">Ʋ</g>od ſemel at<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> iterum Concionatus eras, Typiſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> mandaver as de Dubitanti Conſcientia, quotquot Diverſae ſint ſententiae circa quoſdam Ritus ac Ceremonias, ad utriuſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> partis Rationes Ex<g ref="char:EOLhyphen"/>aminandas, ſatis publice vocitaverat.</p>
+                        <p>Tacentibus alijs, in illa re, tibi parebam; non litigandi Cauſa (impar enim eſt Congreſſus inter te, tantum virum &amp; me tantillum) ſed ut<g ref="char:EOLhyphen"/>hujus modi Litem adim endi, ſicuti praeceperas, adhibeatur occaſio.</p>
+                        <p>Si propter tale (duntaxat) obſequium, me paenas daturum, neſcio quot quibuſve modis, decretum fuerit; Nunquid novae vincendi ratio, ſacris paginis inaudita, apud quoſdam Anteſignanos exoritur?</p>
+                        <p>Quid de his rebus ſentiendum eſſe videatur, ex ſacro Codice ac probati. Scriptoribus diſquirere propoſui, (te Cunctos vacillantes tam acriter invitante) ex illo Lumine ſemitarum, ex illa Lucerna <hi>(Pſal. 119.105)</hi> Rationes aliquot hauſeram adverſus varios ac Multiplices Er<g ref="char:EOLhyphen"/>rores, qui in Eccleſiam Irrepſerunt.</p>
+                        <p>Eâ ſolâ de cauſà uſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> ad Carcerem, ubi nihil amabile eſt, adactus ſum. <g ref="char:V">Ʋ</g>trum Iſtiuſmodi Argumenta valuerint ad veſtrae Concicnis ὑπόθεσεισ, probandas ſub Judice Supremo lis ſit. Anve tali modo ullus ex dubitantibus in ſpirituale Cogi potuerit, Ovile, Judex eſto.</p>
+                        <p>Nihil adverſus Regiam Majeſtatem, nihil de Regimine Civili, nihil contra Monarchiae pacem aſſeritur. De Rituum ac Ceremoni<g ref="char:EOLhyphen"/>arum
+<pb n="7" facs="tcp:109352:4"/> origine, de<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> rebus quae ſpecie veritatis, Etiamſi parum recte, in dubitantes Objiciuntur, ſola diſſertatio eſt.</p>
+                        <p>Quid de me Curia decreverit neſcio. Fiat ſummi Patris Voluntas, <g ref="char:V">Ʋ</g>niverſis qui ſalutis humanae largitorem ſecundum verbum ejus Colunt Pacem internam ac externam in hoc, aeternam<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> in futuro ſeculo Precatur</p>
+                        <closer>
+                           <signed>Thomas De Laune.</signed>
+                        </closer>
+                        <postscript>
+                           <p>
+                              <g ref="char:V">Ʋ</g>t Reſponſum aliquod, quod Theologum decet per dilecttiſſimam meam Conjugem, uti promiſiſti remittas, obſecro.</p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Theſe two Letters were deliver'd to the <hi>Dr.</hi> and the Anſwer I receiv'd to the firſt, was in effect, <hi>That if I had been impriſoned upon the account of anſwering his Book, he would do me any Kindneſs that became him:</hi> To the ſecond he ſaid (which hearing no effect of the former I ſent him) <hi>That he lookt upon himſelf unconcern'd,</hi> or to that purpoſe, as not being mention'd in the Sheets he ſaw with the Recorder. To ſatisfie which Doubt, I ſent a printed Sheet, the very firſt of it, that makes it undiſputable, <hi>viz.</hi> that what I am charg'd with is an <hi>Anſwer</hi> to his <hi>Call.</hi> This is publiſhed (not out of any diſreſpect to that Gentleman, but) to invite him to give a fair Hearing to my Plea, and ſo to remove thoſe Obſtacles that lie in the way of <hi>ſcrupulous Conſciences,</hi> in order to a happy Union. I wiſh from my Heart that the Controverſie might conclude in that bleſſed effect.</p>
+            <p>The following Letter I ſent to the Recorder, Sir <hi>Thomas Jenner,</hi> which I publiſh for no other end, than that it may be a means to ſtir up the Minds of ſome judicious Guides of the Church of <hi>England,</hi> to urge <hi>mild Argu<g ref="char:EOLhyphen"/>ments</hi> to <hi>doubting Perſons;</hi> for as I am not, nor never was; nor intended to be concern'd in any Action to the Diſturbance of the publick Peace, ſo I have been, and ever ſhall be, in my mean Station, a hearty Well-wiſher to the Proſperity of theſe Nations under <hi>His Majeſty's Government.</hi>
+            </p>
+            <q>
+               <pb n="8" facs="tcp:109352:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <head>To Sir <hi>Thomas Jenner,</hi> Knight, Recorder of <hi>London.</hi>
+                        </head>
+                        <opener>
+                           <salute>SIR;</salute>
+                        </opener>
+                        <p>YOu know I was committed Priſoner firſt to the <hi>Compter</hi> at <hi>Woodſtreet,</hi> then to <hi>Newgate</hi> by your Warrant. In my Mittimus its ſaid, <hi>That I refuſed to give Bail,</hi> which is a Miſtake; for being asked by you, <hi>Whether I would give Bail then?</hi> I ſaid, I could not, it being ſo late at night, when I had no opportunity to ſend to ſuch as would bail me. And being ask't, <hi>Whether I would give Bail the next Morning?</hi> I ſaid, I knew not whether I could or not, becauſe I was not certain whether ſuch to whom I might have made Application would do it, or not. This was no Sul<g ref="char:EOLhyphen"/>lenneſs nor Obſtinacy in me, but what my real Apprehenſions then were. Some Friends of mine (free-men of this City) went afterwards to be my Bail, but they were told, you were not at home. They made thereupon an Application to Sir <hi>William Turner,</hi> who referr'd them to you.</p>
+                        <p>It is ſaid in the Warrant, <hi>That I confeſſed I was the Author of a Libel, enti<g ref="char:EOLhyphen"/>tuled,</hi> A Plea for the Non-conformiſts, <hi>wherein are contain'd things dangerous to the Government,</hi> which thus much, and no further is true: I confeſſed before you, that I deliver'd a <hi>Manuſcript</hi> of my own writing to one <hi>John H<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>,</hi> with that Title, in order to be printed, and that if the <hi>Print</hi> agreed with the <hi>Manuſcript,</hi> I would own it—otherwiſe I could not, becauſe the miſ-placing of a Stop, the miſ-printing of a Letter or Syllable, or ſome other Errata's of the Preſs, would alter the Senſe, even to Contradiction of what was intended to be diſcuſſed; which was not as my Indictment words it (in a form of aggravating Terms) but in order to a plain diſ<g ref="char:EOLhyphen"/>quiſition of ſuch things as Dr. <hi>Calamy</hi> from Pulpit and Preſs, invited Diſ<g ref="char:EOLhyphen"/>ſenters to inquire into, as you may ſee in his Book, called, <hi>A Diſcourſe of a ſcrupulous Conſcience.</hi> There is nothing of matters relating to the civil State in what I am charg'd with; for I am not concern'd with that: But if the <hi>Guides of the Church</hi> (as Dr. <hi>Calamy</hi> calls the benefic'd men of the <hi>Church of England</hi>) will make publick <hi>Challenges,</hi> they ſhould receive <hi>Ob<g ref="char:EOLhyphen"/>jections,</hi> without puniſhing the <hi>Objectors,</hi> whoſe (ſuppoſed) Crime is only for obeying them; and that, you know, <hi>Sir,</hi> is diſagreeable to Juſtice.</p>
+                        <p>If any thing I have done falls within the Laſh of <hi>Engliſh Laws, fiat Juſtitia.</hi> But I am ſatisfy'd I have done nothing in this point unbecoming an <hi>honeſt Subject,</hi> a <hi>Scholar,</hi> a <hi>Gentleman,</hi> and which is worth all, a <hi>Chriſtian.</hi> I commit the whole matter, with reſpect to this Diſpute, to that ſupream Legiſlator, who is without exception juſt, and who will judge all that are ſubordinate to him. Which is all from,</p>
+                        <closer>
+                           <salute>Sir,</salute>
+                           <signed>Your Servant, Thomas De Lau<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109352:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
